@@ -1,6 +1,8 @@
-python-telegram-bot==20.7
+python-telegram-bot==21.0.1
 requests==2.31.0
 python-dotenv==1.0.0
-tiktok-downloader==0.4.1
+pyktok==0.0.19
+browser-cookie3==0.19.1
 instaloader==4.10.1
 beautifulsoup4==4.12.2
+numpy==1.26.4

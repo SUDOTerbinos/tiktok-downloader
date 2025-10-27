@@ -1,0 +1,12 @@
+# Environment variables - KEEP THIS SECRET
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Downloaded media files
+downloads/
+
+# Virtual environment folder
+venv/
